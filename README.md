@@ -1,6 +1,6 @@
-# 🔬 PBPVR — Physics‑Based Pressure‑Volume Relationship Model
+# 🔬 HeartPVR — Physics‑Based Pressure‑Volume Relationship Model for Heart
 
-This repository implements a **physics‑based pressure‑volume relationship (PBPVR) model** for cardiac research.
+This repository implements a **physics‑based pressure‑volume relationship for Heart (HeartPVR) model** for cardiac research.
 The model describes both the **end‑diastolic pressure‑volume relationship (EDPVR)** and the
 **end‑systolic pressure‑volume relationship (ESPVR)** using a physically grounded framework.
 
@@ -8,7 +8,7 @@ The model describes both the **end‑diastolic pressure‑volume relationship (E
 
 ## 📌 Overview
 
-The PBPVR model provides:
+The HeartPVR model provides:
 
 - A **physics‑based mathematical description** of left ventricular pressure‑volume behavior
 - Python implementations for generating **EDPVR** and **ESPVR** curves
@@ -25,7 +25,7 @@ This work is based on the publication:
 ## 🧠 Motivation
 
 Pressure‑volume (PV) relationships are fundamental to understanding cardiac mechanics.
-While many traditional models rely on empirical curve fitting, **PBPVR is derived from physical principles**,
+While many traditional models rely on empirical curve fitting, **HeartPVR is derived from physical principles**,
 allowing more direct interpretation of myocardial mechanical properties and physiological changes.
 
 ---
@@ -33,13 +33,13 @@ allowing more direct interpretation of myocardial mechanical properties and phys
 ## 📂 Repository Structure
 
 ```
-PBPVR/
-├── Demo 1 EDPVR generated from PBPVR model.png
-├── Demo 2 EDPVR and ESPVR generated from PBPVR model.png
+HeartPVR/
+├── Demo 1 EDPVR generated from HeartPVR model.png
+├── Demo 2 EDPVR and ESPVR generated from HeartPVR model.png
 ├── Demo 1 EDPVR.py
 ├── Demo 2 EDPVR and ESPVR.py
-├── pbpvr_lib.py
-├── pbpvr_help_functions.py
+├── heartpvr_lib.py
+├── heartpvr_help_functions.py
 ├── LICENSE
 └── README.md
 ```
