@@ -1,6 +1,6 @@
-# 🔬 HeartPVR — Physics‑Based Pressure‑Volume Relationship Model for Heart
+# 🔬 HeartPVR — Physics‑Based Pressure‑Volume Relationship for Heart
 
-This repository implements a **physics‑based pressure‑volume relationship for Heart (HeartPVR) model** for cardiac research.
+This repository implements a **physics‑based pressure‑volume relationship of Heart (HeartPVR)** for cardiac research.
 The model describes both the **end‑diastolic pressure‑volume relationship (EDPVR)** and the
 **end‑systolic pressure‑volume relationship (ESPVR)** using a physically grounded framework.
 
